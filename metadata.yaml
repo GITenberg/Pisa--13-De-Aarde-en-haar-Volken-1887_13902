@@ -13,6 +13,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/browse/authors/u#a49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13902#Pisa--13-De-Aarde-en-haar-Volken-1887
 gutenberg_bookshelf: De Aarde en haar Volken
 gutenberg_issued: '2004-10-31'
 gutenberg_type: Text
